@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Yugrit/.github/blob/main/file_0000000029f861f8a526d775364036b7%202.png" alt="Yugrit Logo" width="150" />
+  <img src="https://github.com/Yugrit/yugrit/blob/main/file_0000000029f861f8a526d775364036b7%202.png" alt="Yugrit Logo" width="150" />
 </p>
 
 <h1 align="center">Welcome to Yugrit 👋</h1>

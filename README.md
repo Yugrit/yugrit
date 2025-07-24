@@ -27,8 +27,8 @@ Here you can list your company or team-based projects:
 ---
 
 ### 👥 Let's Connect
-- 🌐 [Website](https://yugrit.netlify.app)
-- 📧 yugrit.tech@gmail.com
+- 🌐 [Website](https://yugrit.com)
+- 📧 contact@yugrit.com
 - 🧠 [LinkedIn](https://www.linkedin.com/company/107958067)
 - 📂 [Explore Our Projects](https://github.com/Yugrit)
 
